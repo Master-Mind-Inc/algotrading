@@ -1,5 +1,5 @@
 # Title
-Web API Server for dialing with BITFINEX Market
+Web API Server for dialing with BINANCE Market
 
 ## ENV Example
 
